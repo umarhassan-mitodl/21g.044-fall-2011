@@ -1,0 +1,29 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b0833ac6-e8ff-9233-2768-eb8594d4ba9b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a32f23fe-820f-114d-aa40-e174e54564aa
+  name: Calendar
+  pageRef: /pages/calendar/
+  weight: 20
+- identifier: 19e0292d-a742-bac2-eb5d-a748c0a67a86
+  name: 'In-class Assignment: Poetry Storyboards'
+  pageRef: /pages/calendar/in-class-assignment-poetry-storyboards
+  parent: a32f23fe-820f-114d-aa40-e174e54564aa
+  weight: 30
+- identifier: 0bedded8-0142-7b44-c7b3-f6dee18ec824
+  name: Handout for the Museum of Fine Arts Trip
+  pageRef: /pages/calendar/handout-for-the-museum-of-fine-arts-trip
+  parent: a32f23fe-820f-114d-aa40-e174e54564aa
+  weight: 40
+- identifier: 80534612-8315-b3a1-fba0-a76ba2da2657
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: 7367b549-bb06-10c6-e5f1-0b6bb641ec9d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60

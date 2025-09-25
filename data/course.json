@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ]
+  ],
+  "legacy_uid": "8092bf8a-0f4a-113b-5052-fd0a6865d923",
+  "instructors": {
+    "content": [
+      "b5beaa00-f236-e1f7-8fc2-eb415e2d4e64"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1accd233-6be9-bf03-6c30-d8163a8d0059",
+    "website": "21g-044-classics-of-chinese-literature-fall-2011"
+  },
+  "course_title": "Classics of Chinese Literature",
+  "hide_download": true,
+  "course_description": "This course is an introduction to three of the major genres of traditional Chinese literature\u2014poetry, fiction and drama, with a focus on vernacular fiction. We will read translations of a number of the \"masterworks\" of Chinese literature. We will also examine the intertextuality between these genres \u2014 how poetry blends into narrative, how fiction becomes drama, and drama inspires fiction. Through reading these selected works of traditional Chinese literature, we will examine some of the major features of traditional Chinese society: religious and philosophical beliefs, the imperial system and dynastic change, gender relations, notions of class and ethnicity, family, romance and sexuality. All works are read in translation; no language background is necessary.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.044",
+  "course_image_thumbnail": {
+    "content": "9ca58016-8a5f-e4f8-4789-e9302cb0532f",
+    "website": "21g-044-classics-of-chinese-literature-fall-2011"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "e0a9f15f-2441-4d01-a492-2763523e9b2e",
+  "site_short_id": "21g.044-fall-2011",
+  "site_url_path": "courses/21g-044-classics-of-chinese-literature-fall-2011",
+  "title": "Course Metadata"
+}
