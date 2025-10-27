@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides descriptions of the assigned weekly reading journal
   and the final project of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

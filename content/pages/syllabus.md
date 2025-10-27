@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, grading, and required and recommended texts.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -97,7 +95,7 @@ Required and Recommended Texts
 
 Shi, Nai'an, and Guanzhong Luo. _Outlaws of the Marsh: An Abridged Version_. Translated by Shapiro Sidney. Commercial Press, 1986. ISBN: 9789620710674.
 
-Wang, Shi-fu. _The Story of the Western Wing_. Edited and translated by Stephen H. West and Wilt L. Idema. University of California Press, 1995. ISBN: 9780520201842. \[Preview with [Google Books](http://books.google.com/books?id=Hxn1ZBMT9mIC&pg=PAfrontcover#v=onepage)\]
+Wang, Shi-fu. _The Story of the Western Wing_. Edited and translated by Stephen H. West and Wilt L. Idema. University of California Press, 1995. ISBN: 9780520201842. \[Preview with {{% resource_link "54240e0e-4237-4a54-bf38-a56bc50da5bd" "Google Books" %}}\]
 
 Wu, Ch'eng-en. _Monkey: Folk Novel of China_. Translated by Arthur Waley. Grove/Atlantic, 1994. ISBN: 9780802130860.
 
@@ -115,11 +113,11 @@ Lanling Xiaoxiao Sheng \[pseud.\]. _Plum in the Golden Vase, or Chin P'ing Mei_.
 
 Fu, Shen. _Six Records of a Floating Life_. Edited and translated by Leonard Pratt and Su-Hui Chiang. Penguin Group, 1983. ISBN: 9780140444292.
 
-Tang, Xianzu. _The Peony Pavilion: Mudan ting_. 2nd ed. Translated by Cyril Birch. Indiana University Press, 2002. ISBN: 9780253215277. \[Preview with [Google Books](http://books.google.com/books?id=wF188L6JgooC&pg=PAfrontcover#v=onepage)\]
+Tang, Xianzu. _The Peony Pavilion: Mudan ting_. 2nd ed. Translated by Cyril Birch. Indiana University Press, 2002. ISBN: 9780253215277. \[Preview with {{% resource_link "3604c7f7-edf6-4cf9-b91e-585b03dd5fd4" "Google Books" %}}\]
 
 Lo, Kuan-chong. _Three Kingdoms: China's Epic Drama_. Translated by Moss Roberts. Pantheon Books, 1977. ISBN: 9780394733937.
 
-Wu, Cheng'en. _The Monkey and the Monk: An Abridgment of the Journey to the West_. Edited and translated by Anthony C. Yu. University of Chicago Press, 2006. ISBN: 9780226971568. \[Preview with [Google Books](http://books.google.com/books?id=fMhR8jVtfYYC&pg=PAfrontcover#v=onepage)\]
+Wu, Cheng'en. _The Monkey and the Monk: An Abridgment of the Journey to the West_. Edited and translated by Anthony C. Yu. University of Chicago Press, 2006. ISBN: 9780226971568. \[Preview with {{% resource_link "dfc659f9-d4b5-4163-a1ef-a789bfad74cb" "Google Books" %}}\]
 
 ### Films
 

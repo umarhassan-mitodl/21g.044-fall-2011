@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the list of readings for each session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -117,7 +115,7 @@ Li, Yu. "An Ugly Husband Fears a Pretty Wife." In _Silent Operas (Wushengxi)_. E
 4: Introduction to Drama: _The Story of the Western Wing_
 {{< tdclose >}}
 {{< tdopen >}}
-Begin reading Wang, Shi-fu. _The Story of the Western Wing_. Edited and translated by Stephen H. West and Wilt L. Idema. University of California Press, 1995. ISBN: 9780520201842. \[Preview with [Google Books](http://books.google.com/books?id=Hxn1ZBMT9mIC&pg=PAfrontcover#v=onepage)\]
+Begin reading Wang, Shi-fu. _The Story of the Western Wing_. Edited and translated by Stephen H. West and Wilt L. Idema. University of California Press, 1995. ISBN: 9780520201842. \[Preview with {{% resource_link "54240e0e-4237-4a54-bf38-a56bc50da5bd" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +130,7 @@ Discuss the readings of:
 
 "Ying-ying's Story," in \[_Owen Anthology_\], pp. 540–9.
 
-Focus on pp. 191-245 and 277-286 from Wang, Shi-fu. _The Story of the Western Wing_. Edited and translated by Stephen H. West and Wilt L. Idema. University of California Press, 1995. ISBN: 9780520201842. \[Preview with [Google Books](http://books.google.com/books?id=Hxn1ZBMT9mIC&pg=PAfrontcover#v=onepage)\]
+Focus on pp. 191-245 and 277-286 from Wang, Shi-fu. _The Story of the Western Wing_. Edited and translated by Stephen H. West and Wilt L. Idema. University of California Press, 1995. ISBN: 9780520201842. \[Preview with {{% resource_link "54240e0e-4237-4a54-bf38-a56bc50da5bd" "Google Books" %}}\]
 
 
 {{< tdclose >}}
